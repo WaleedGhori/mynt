@@ -111,7 +111,7 @@ nav ul li a {
 .herowhy1 {
   display: flex;
   width: 60%;
-  padding: 70px 10px 8px 45px;
+  padding: 16px 10px 8px 45px;
 }
 
 .herowhy2 {
@@ -186,4 +186,8 @@ nav ul li a {
   color: white;
   margin-top: 6px;
   margin-left: 24px;
+}
+
+#herowhy1{
+    padding-left: 300px;
 }
